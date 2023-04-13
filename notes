@@ -1,0 +1,2 @@
+1. websocket is permanent connection type, where you have a permanent connection with the server, and you can send or receive messages through the same tunnel for any nmbr of times.
+Web Socket is compatively very very fast compared to http req res 
